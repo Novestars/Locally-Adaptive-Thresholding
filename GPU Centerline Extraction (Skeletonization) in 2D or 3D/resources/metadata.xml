@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>e51cbeb0-538c-4680-93bb-b4354b63a1e6</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>GPU Centerline Extraction (Skeletonization) in 2D or 3D</name>
+  <author>Martin Wagner</author>
+  <version>1.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/e51cbeb0-538c-4680-93bb-b4354b63a1e6/d5089ef4-d32a-4082-b3f6-a296a1f014ad/packages/zip?src=addons_ml_desktop_install&amp;profile_id=15976046&amp;license=650045&amp;release_family=R2019b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/e51cbeb0-538c-4680-93bb-b4354b63a1e6/1.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/e51cbeb0-538c-4680-93bb-b4354b63a1e6/d5089ef4-d32a-4082-b3f6-a296a1f014ad/images/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/e51cbeb0-538c-4680-93bb-b4354b63a1e6/d5089ef4-d32a-4082-b3f6-a296a1f014ad/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>

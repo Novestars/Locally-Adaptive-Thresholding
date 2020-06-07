@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>GPU Centerline Extraction (Skeletonization) in 2D or 3D</label>
+  <version>1.0.0</version>
+  <type>zip</type>
+  <identifier>e51cbeb0-538c-4680-93bb-b4354b63a1e6</identifier>
+  <createdBy name="Martin Wagner"/>
+  <image>resources/screenshot.png</image>
+</addonCore>
